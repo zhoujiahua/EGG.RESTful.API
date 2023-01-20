@@ -1,6 +1,6 @@
-# project
+# EGG RESTful API
 
-
+A set of projects built on EGGJS to implement RESTful API data.
 
 ## QuickStart
 
